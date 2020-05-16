@@ -11,48 +11,48 @@
           "Name": "Catalina Solar Dynamic Wallpaper"
    },
    "Wallpaper": {
-     "Preview": "catalina_dynamic-0600.jpg",
+     "Preview": "catalina_dynamic-0600.png",
      "Type": "solar",    
      "MetaData": [    
       {
         "Elevation": -48.01,
         "Azimuth": -31.12,
-        "FileName": "catalina_dynamic-0000.jpg"
+        "FileName": "catalina_dynamic-0000.png"
       },
       {
         "Elevation": -47.64,
         "Azimuth": 31.93,
-        "FileName": "catalina_dynamic-0300.jpg"
+        "FileName": "catalina_dynamic-0300.png"
       },
       {
         "Elevation": -14.56,
         "Azimuth": 61.40,
-        "FileName": "catalina_dynamic-0600.jpg"
+        "FileName": "catalina_dynamic-0600.png"
       },
       {
         "Elevation": 25.76,
         "Azimuth": 69.81,
-        "FileName": "catalina_dynamic-0900.jpg"
+        "FileName": "catalina_dynamic-0900.png"
       },
       {
         "Elevation": 66.32,
         "Azimuth": 59.51,
-        "FileName": "catalina_dynamic-1200.jpg"
+        "FileName": "catalina_dynamic-1200.png"
       },
       {
         "Elevation": 65.76,
         "Azimuth": -60.10,
-        "FileName": "catalina_dynamic-1500.jpg"
+        "FileName": "catalina_dynamic-1500.png"
       },
       {
         "Elevation": 25.15,
         "Azimuth": -69.67,
-        "FileName": "catalina_dynamic-1800.jpg"
+        "FileName": "catalina_dynamic-1800.png"
       },
       {
         "Elevation": -15.13,
         "Azimuth": -61.67,
-        "FileName": "catalina_dynamic-2100.jpg"
+        "FileName": "catalina_dynamic-2100.png"
       }
     ]
   }
