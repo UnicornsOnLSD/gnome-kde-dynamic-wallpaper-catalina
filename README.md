@@ -4,6 +4,8 @@ Unlike the project this was forked from, this only works on KDE since I have no 
 
 # Installation (Arch/Manjaro)
 
+[Download the HEIC here](https://github.com/UnicornsOnLSD/gnome-kde-dynamic-wallpaper-catalina/releases)
+
 1. Install plasma5-wallpapers-dynamic (`yay -S plasma5-wallpapers-dynamic`)
 2. Download wallpaper.heic (feel free to rename it) and place it somewhere
 3. Right click on your desktop and click "Configure Desktop..."
