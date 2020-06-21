@@ -10,3 +10,5 @@ Unlike the original, this only works on KDE since I have no idea how the Gnome s
 4. Set the wallpaper type to dynamic
 5. Click on "Add Wallpaper..."
 6. Select wallpaper.heic (or whatever you called it)
+
+(btw I'm keeping the old catalina-solar.json because if I ever bother to add a solar config, I'll probably want to use it as a baseline)
