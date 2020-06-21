@@ -1,33 +1,41 @@
 [
   {
+    "CrossFade": true,
     "Time": "00:00",
     "FileName": "catalina_dynamic-0000.png"
   },
   {
+    "CrossFade": true,
     "Time": "03:00",
     "FileName": "catalina_dynamic-0300.png"
   },
   {
+    "CrossFade": true,
     "Time": "06:00",
     "FileName": "catalina_dynamic-0600.png"
   },
   {
+    "CrossFade": true,
     "Time": "09:00",
     "FileName": "catalina_dynamic-0900.png"
   },
   {
+    "CrossFade": true,
     "Time": "12:00",
     "FileName": "catalina_dynamic-1200.png"
   },
   {
+    "CrossFade": true,
     "Time": "15:00",
     "FileName": "catalina_dynamic-1500.png"
   },
   {
+    "CrossFade": true,
     "Time": "18:00",
     "FileName": "catalina_dynamic-1800.png"
   },
   {
+    "CrossFade": true,
     "Time": "21:00",
     "FileName": "catalina_dynamic-2100.png"
   }
